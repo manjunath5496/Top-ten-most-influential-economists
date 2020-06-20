@@ -234,4 +234,42 @@ condition of various classes and nations</a></li>
 
  </ul>
 </br>
+<h3><a href="https://en.wikipedia.org/wiki/Dambisa_Moyo">Dambisa Moyo</a></h3>
+<h3>1969</h3>
+<p><strong>Dambisa Felicia Moyo</strong>&nbsp;(born&nbsp;2 February 1969)<sup id="cite_ref-TED2013_1-0" class="reference"></sup>&nbsp;is a&nbsp;<a title="Zambia" href="https://en.wikipedia.org/wiki/Zambia">Zambian</a>&nbsp;economist and author who analyzes the macroeconomy and global affairs.<sup id="cite_ref-run_2-0" class="reference"></sup>&nbsp;She currently serves on the boards of&nbsp;<a title="Chevron Corporation" href="https://en.wikipedia.org/wiki/Chevron_Corporation">Chevron Corporation</a>&nbsp;and the&nbsp;<a class="mw-redirect" title="3M Company" href="https://en.wikipedia.org/wiki/3M_Company">3M Company</a>.<sup id="cite_ref-threem_3-0" class="reference"></sup>&nbsp;She worked for two years at the&nbsp;<a title="World Bank" href="https://en.wikipedia.org/wiki/World_Bank">World Bank</a>&nbsp;and eight years at&nbsp;<a title="Goldman Sachs" href="https://en.wikipedia.org/wiki/Goldman_Sachs">Goldman Sachs</a>&nbsp;before becoming an author and international public speaker. She has written four&nbsp;<a title="The New York Times Best Seller list" href="https://en.wikipedia.org/wiki/The_New_York_Times_Best_Seller_list"><em>New York Times</em>&nbsp;bestselling</a>&nbsp;books:&nbsp;<em>Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa</em>&nbsp;(2009),&nbsp;<em>How the West Was Lost: Fifty Years of Economic Folly &ndash; And the Stark Choices that Lie Ahead</em>&nbsp;(2011),&nbsp;<em>Winner Take All: China's Race for Resources and What It Means for the World</em>&nbsp;(2012), and the most recent&nbsp;<em><a class="mw-redirect" title="Edge of Chaos" href="https://en.wikipedia.org/wiki/Edge_of_Chaos">Edge of Chaos</a>: Why Democracy Is Failing to Deliver Economic Growth &ndash; and How to Fix It</em>&nbsp;(2018). She holds a bachelor's degree in chemistry and an&nbsp;<a class="mw-redirect" title="MBA" href="https://en.wikipedia.org/wiki/MBA">MBA</a>&nbsp;from&nbsp;<a title="American University" href="https://en.wikipedia.org/wiki/American_University">American University</a>, an&nbsp;<a title="Master of Public Administration" href="https://en.wikipedia.org/wiki/Master_of_Public_Administration">MPA</a>&nbsp;from the&nbsp;<a class="mw-redirect" title="Harvard Kennedy School" href="https://en.wikipedia.org/wiki/Harvard_Kennedy_School">Harvard Kennedy School</a>, and a&nbsp;<a class="mw-redirect" title="DPhil" href="https://en.wikipedia.org/wiki/DPhil">DPhil</a>&nbsp;in economics from the&nbsp;<a title="University of Oxford" href="https://en.wikipedia.org/wiki/University_of_Oxford">University of Oxford</a>.</p>
 </br>
+
+<h2> Books </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(43).pdf" style="text-decoration:none;">Governing the Commons: The Evolution of Institutions for Collective Action</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(44).pdf" style="text-decoration:none;">Local Commons and Global Interdependence</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(45).pdf" style="text-decoration:none;">People and Forests: Communities, Institutions, and Governance</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(46).pdf" style="text-decoration:none;">Crafting Institutions for Self-Governing Irrigation Systems</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(47).pdf" style="text-decoration:none;">Rules, Games, and Common-Pool Resources</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(48).pdf" style="text-decoration:none;">The Commons in the New Millennium: Challenges and Adaptation</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(49).pdf" style="text-decoration:none;">The Samaritan's Dilemma: The Political Economy of Development Aid</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(50).pdf" style="text-decoration:none;">Understanding Institutional Diversity </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(51).pdf" style="text-decoration:none;">Understanding Knowledge as a Commons </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(52).pdf" style="text-decoration:none;">Institutions, Ecosystems, and Sustainability (Ecological Economics) </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(53).pdf" style="text-decoration:none;">Seeing the Forest and the Trees: Human-Environment Interactions in Forest Ecosystems </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(54).pdf" style="text-decoration:none;">Beyond Markets and States: Polycentric Governance of Complex Economic Systems [Nobel Lecture]</a></li>
+
+
+ </ul>
+</br>
+
