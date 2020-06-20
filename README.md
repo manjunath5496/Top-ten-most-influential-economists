@@ -258,3 +258,30 @@ condition of various classes and nations</a></li>
  </ul>
 </br>
 
+<h3><a href="https://en.wikipedia.org/wiki/Esther_Duflo">Esther Duflo&nbsp;</a></h3>
+<h3>1972</h3>
+<p><strong>Esther Duflo</strong>,&nbsp;<a title="Fellow of the British Academy" href="https://en.wikipedia.org/wiki/Fellow_of_the_British_Academy">FBA</a>&nbsp;(<small>French:&nbsp;</small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a title="Help:IPA/French" href="https://en.wikipedia.org/wiki/Help:IPA/French">[dyflo]</a></span>; born 25 October 1972) is a&nbsp;<a title="French people" href="https://en.wikipedia.org/wiki/French_people">French</a>&ndash;<a title="Americans" href="https://en.wikipedia.org/wiki/Americans">American</a>&nbsp;economist<sup id="cite_ref-6" class="reference"></sup>&nbsp;who is the Abdul Latif Jameel Professor of Poverty Alleviation and Development Economics at the&nbsp;<a title="Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology">Massachusetts Institute of Technology</a>&nbsp;(MIT). She is the co-founder and co-director of the&nbsp;<a title="Abdul Latif Jameel Poverty Action Lab" href="https://en.wikipedia.org/wiki/Abdul_Latif_Jameel_Poverty_Action_Lab">Abdul Latif Jameel Poverty Action Lab</a>, which was established in 2003.<sup id="cite_ref-7" class="reference"></sup>&nbsp;She shared the 2019&nbsp;<a title="Nobel Memorial Prize in Economic Sciences" href="https://en.wikipedia.org/wiki/Nobel_Memorial_Prize_in_Economic_Sciences">Nobel Memorial Prize in Economic Sciences</a>&nbsp;with&nbsp;<a title="Abhijit Banerjee" href="https://en.wikipedia.org/wiki/Abhijit_Banerjee">Abhijit Banerjee</a>&nbsp;and&nbsp;<a title="Michael Kremer" href="https://en.wikipedia.org/wiki/Michael_Kremer">Michael Kremer</a>, "for their experimental approach to&nbsp;<a title="Poverty reduction" href="https://en.wikipedia.org/wiki/Poverty_reduction">alleviating global poverty</a>".<sup id="cite_ref-NobelWeb_8-0" class="reference"></sup></p>
+<p>Duflo is a&nbsp;<a title="National Bureau of Economic Research" href="https://en.wikipedia.org/wiki/National_Bureau_of_Economic_Research">National Bureau of Economic Research</a>&nbsp;(NBER) research associate, a board member of the Bureau for Research and Economic Analysis of Development (BREAD), and director of the&nbsp;<a title="Center for Economic and Policy Research" href="https://en.wikipedia.org/wiki/Center_for_Economic_and_Policy_Research">Center for Economic and Policy Research</a>'s&nbsp;<a title="Development economics" href="https://en.wikipedia.org/wiki/Development_economics">development economics</a>&nbsp;program. Her research focuses on&nbsp;<a title="Microeconomics" href="https://en.wikipedia.org/wiki/Microeconomics">microeconomic</a>&nbsp;issues in developing countries, including&nbsp;<a title="Family economics" href="https://en.wikipedia.org/wiki/Family_economics">household behavior</a>, education,&nbsp;<a title="Access to finance" href="https://en.wikipedia.org/wiki/Access_to_finance">access to finance</a>, health, and&nbsp;<a title="Policy analysis" href="https://en.wikipedia.org/wiki/Policy_analysis">policy evaluation</a>. Together with Banerjee,&nbsp;<a title="Dean Karlan" href="https://en.wikipedia.org/wiki/Dean_Karlan">Dean Karlan</a>, Kremer,&nbsp;<a title="John A. List" href="https://en.wikipedia.org/wiki/John_A._List">John A. List</a>, and&nbsp;<a title="Sendhil Mullainathan" href="https://en.wikipedia.org/wiki/Sendhil_Mullainathan">Sendhil Mullainathan</a>, she has been a driving force in advancing&nbsp;<a title="Field experiment" href="https://en.wikipedia.org/wiki/Field_experiment">field experiments</a>&nbsp;as an important&nbsp;<a title="Methodology" href="https://en.wikipedia.org/wiki/Methodology">methodology</a>&nbsp;to discover&nbsp;<a title="Causality" href="https://en.wikipedia.org/wiki/Causality">causal relationships</a>&nbsp;in economics. Together with Banerjee, she wrote&nbsp;<em><a title="Poor Economics" href="https://en.wikipedia.org/wiki/Poor_Economics">Poor Economics</a></em>&nbsp;and&nbsp;<em><a title="Good Economics for Hard Times" href="https://en.wikipedia.org/wiki/Good_Economics_for_Hard_Times">Good Economics for Hard Times</a></em>, published in April 2011 and November 2019, respectively.</p>
+</br>
+<h2> Books </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(55).pdf" style="text-decoration:none;">Edge of Chaos: Why Democracy Is Failing to Deliver Economic Growth and How to Fix It</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(56).pdf" style="text-decoration:none;">How the West was Lost: Fifty Years of Economic Folly – And the Stark Choices Ahead</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(57).pdf" style="text-decoration:none;">Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa</a></li>
+
+ 
+
+
+ </ul>
+</br>
+
+
+
+
