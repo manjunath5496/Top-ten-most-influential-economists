@@ -72,21 +72,14 @@ condition of various classes and nations</a></li>
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(5).pdf" style="text-decoration:none;">Industry and Trade: A Study of industrial technique and businnes organization; and of their influences on the
-condition of various classes and nations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(14).pdf" style="text-decoration:none;">The Life Of Her Majesty Queen Victoria</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(6).rar" style="text-decoration:none;">Money Credit and Commerce</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(15).pdf" style="text-decoration:none;">Some Eminent Women of Our Times: Short Biographical Sketches</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(7).pdf" style="text-decoration:none;">Official Papers of Alfred Marshall: A Supplement</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(8).pdf" style="text-decoration:none;">The Correspondence of Alfred Marshall, Economist: Volume 1 </a></li>   
- 
- 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(9).pdf" style="text-decoration:none;">The Correspondence of Alfred Marshall, Economist: Volume 2</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(10).pdf" style="text-decoration:none;">The Early Economic Writings of Alfred Marshall, 1867-1890: Volume l </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(11).pdf" style="text-decoration:none;">The Early Economic Writings of Alfred Marshall, 1867-1890: Volume 2 </a></li>
- 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(12).pdf" style="text-decoration:none;"> The Economics of Industry</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(13).pdf" style="text-decoration:none;">Principles of Economics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(16).pdf" style="text-decoration:none;">The Women's Victory and After: Personal Reminiscences 1911-1918</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(17).pdf" style="text-decoration:none;">Women's Suffrage</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(18).pdf" style="text-decoration:none;">What I Remember</a></li>
+
  
  
  
