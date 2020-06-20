@@ -226,9 +226,12 @@ condition of various classes and nations</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(50).pdf" style="text-decoration:none;">Understanding Institutional Diversity </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(51).pdf" style="text-decoration:none;">Understanding Knowledge as a Commons </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(52).pdf" style="text-decoration:none;">Institutions, Ecosystems, and Sustainability (Ecological Economics) </a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(53).pdf" style="text-decoration:none;">Seeing the Forest and the Trees: Human-Environment Interactions in Forest Ecosystems </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(54).pdf" style="text-decoration:none;">Beyond Markets and States: Polycentric Governance of Complex Economic Systems [Nobel Lecture]</a></li>
 
 
  </ul>
-
+</br>
 </br>
