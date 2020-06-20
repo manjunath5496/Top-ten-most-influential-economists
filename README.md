@@ -195,6 +195,24 @@ condition of various classes and nations</a></li>
 
 </br>
 
+<h3><a href="https://en.wikipedia.org/wiki/Elinor_Ostrom">Elinor Ostrom&nbsp;</a></h3>
+<h3>1933&ndash;2012</h3>
+<p><strong>Elinor Claire</strong>&nbsp;"<strong>Lin</strong>"&nbsp;<strong>Ostrom</strong>&nbsp;(n&eacute;e&nbsp;<strong>Awan</strong>; August 7, 1933 &ndash; June 12, 2012) was an American&nbsp;<a title="Political economy" href="https://en.wikipedia.org/wiki/Political_economy">political economist</a><sup id="cite_ref-1" class="reference"></sup><sup id="cite_ref-nature-obit_2-0" class="reference"></sup><sup id="cite_ref-3" class="reference"></sup>&nbsp;whose work was associated with the&nbsp;<a title="New institutional economics" href="https://en.wikipedia.org/wiki/New_institutional_economics">New Institutional Economics</a>&nbsp;and the resurgence of&nbsp;<a title="Political economy" href="https://en.wikipedia.org/wiki/Political_economy">political economy</a>.<sup id="cite_ref-4" class="reference"></sup>&nbsp;In 2009, she was awarded the&nbsp;<a title="Nobel Memorial Prize in Economic Sciences" href="https://en.wikipedia.org/wiki/Nobel_Memorial_Prize_in_Economic_Sciences">Nobel Memorial Prize in Economic Sciences</a>&nbsp;for her "analysis of economic governance, especially&nbsp;<a class="mw-redirect" title="The commons" href="https://en.wikipedia.org/wiki/The_commons">the commons</a>", which she shared with&nbsp;<a title="Oliver E. Williamson" href="https://en.wikipedia.org/wiki/Oliver_E._Williamson">Oliver E. Williamson</a>. To date, she remains the first of only two women to win the Nobel Prize in Economics,<sup id="cite_ref-5" class="reference"></sup>&nbsp;the other being&nbsp;<a title="Esther Duflo" href="https://en.wikipedia.org/wiki/Esther_Duflo">Esther Duflo</a>.</p>
+<p>After graduating with a B.A. and Ph.D. from&nbsp;<a class="mw-redirect" title="UCLA" href="https://en.wikipedia.org/wiki/UCLA">UCLA</a>, Ostrom lived in&nbsp;<a title="Bloomington, Indiana" href="https://en.wikipedia.org/wiki/Bloomington,_Indiana">Bloomington</a>,&nbsp;<a title="Indiana" href="https://en.wikipedia.org/wiki/Indiana">Indiana</a>, and served on the faculty of&nbsp;<a title="Indiana University Bloomington" href="https://en.wikipedia.org/wiki/Indiana_University_Bloomington">Indiana University</a>, with a late-career affiliation with&nbsp;<a title="Arizona State University" href="https://en.wikipedia.org/wiki/Arizona_State_University">Arizona State University</a>. She was Distinguished Professor at Indiana University and the&nbsp;<a title="Arthur F. Bentley" href="https://en.wikipedia.org/wiki/Arthur_F._Bentley">Arthur F. Bentley</a>&nbsp;Professor of Political Science and co-director of the Workshop in Political Theory and Policy Analysis at Indiana University, as well as research professor and the founding director of the Center for the Study of Institutional Diversity at&nbsp;<a title="Arizona State University" href="https://en.wikipedia.org/wiki/Arizona_State_University">Arizona State University</a>&nbsp;in&nbsp;<a title="Tempe, Arizona" href="https://en.wikipedia.org/wiki/Tempe,_Arizona">Tempe</a>.<sup id="cite_ref-6" class="reference"></sup>&nbsp;She was a lead researcher for the Sustainable Agriculture and Natural Resource Management Collaborative Research Support Program (SANREM CRSP), managed by&nbsp;<a title="Virginia Tech" href="https://en.wikipedia.org/wiki/Virginia_Tech">Virginia Tech</a>&nbsp;and funded by&nbsp;<a class="mw-redirect" title="USAID" href="https://en.wikipedia.org/wiki/USAID">USAID</a>.<sup id="cite_ref-Researcher_for_Virginia_Tech_program_wins_Nobel_Prize_7-0" class="reference"></sup>&nbsp;Beginning in 2008, she and her husband&nbsp;<a title="Vincent Ostrom" href="https://en.wikipedia.org/wiki/Vincent_Ostrom">Vincent Ostrom</a>&nbsp;advised the journal&nbsp;<em>Transnational Corporations Review</em>.</p>
+
+</br>
+<h2> Books </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(41).pdf" style="text-decoration:none;">The Essays of Warren Buffett: Lessons for Corporate America</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(42).pdf" style="text-decoration:none;">Letters to Shareholders</a></li>
 
 
 
+ </ul>
+
+</br>
