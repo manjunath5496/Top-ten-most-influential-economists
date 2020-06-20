@@ -38,12 +38,23 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(1).pdf" style="text-decoration:none;">The Complete Works of Adam Smith</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(5).pdf" style="text-decoration:none;">Industry and Trade: A Study of industrial technique and businnes organization; and of their influences on the
+condition of various classes and nations</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(2).pdf" style="text-decoration:none;">Lectures on Jurisprudence</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(6).rar" style="text-decoration:none;">Money Credit and Commerce</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(3).pdf" style="text-decoration:none;">The Theory of Moral Sentiments</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(4).pdf" style="text-decoration:none;">An Inquiry into the Nature and Causes of the Wealth of Nations </a></li>    
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(7).pdf" style="text-decoration:none;">Official Papers of Alfred Marshall: A Supplement</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(8).pdf" style="text-decoration:none;">The Correspondence of Alfred Marshall, Economist: Volume 1 </a></li>   
+ 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(9).pdf" style="text-decoration:none;">The Correspondence of Alfred Marshall, Economist: Volume 2</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(10).pdf" style="text-decoration:none;">The Early Economic Writings of Alfred Marshall, 1867-1890: Volume l </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(11).pdf" style="text-decoration:none;">The Early Economic Writings of Alfred Marshall, 1867-1890: Volume 2 </a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(12).pdf" style="text-decoration:none;"> The Economics of Industry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(13).pdf" style="text-decoration:none;">Principles of Economics </a></li>
+ 
+ 
  
  </ul>
 
