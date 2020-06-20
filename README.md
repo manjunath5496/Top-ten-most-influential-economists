@@ -60,3 +60,40 @@ condition of various classes and nations</a></li>
 
 </br>
 
+<h3><a href="https://en.wikipedia.org/wiki/Millicent_Fawcett">Millicent Fawcett&nbsp;</a></h3>
+<h3>1847&ndash;1929</h3>
+<p><strong>Dame Millicent Garrett Fawcett</strong>&nbsp;<span class="noexcerpt nowraplinks"><a class="mw-redirect" title="Knight Grand Cross of the Order of the British Empire" href="https://en.wikipedia.org/wiki/Knight_Grand_Cross_of_the_Order_of_the_British_Empire">GBE</a></span>&nbsp;(11 June 1847 &ndash; 5 August 1929) was an English political leader, writer and feminist icon. Known for campaigning for&nbsp;<a title="Women's suffrage in the United Kingdom" href="https://en.wikipedia.org/wiki/Women%27s_suffrage_in_the_United_Kingdom">women's suffrage</a>&nbsp;through&nbsp;<a title="Law reform" href="https://en.wikipedia.org/wiki/Law_reform">legislative change</a>, she led Britain's largest women's rights organisation, the&nbsp;<a title="National Union of Women's Suffrage Societies" href="https://en.wikipedia.org/wiki/National_Union_of_Women%27s_Suffrage_Societies">National Union of Women's Suffrage Societies</a>&nbsp;(NUWSS) from 1897 until 1919.<sup id="cite_ref-1" class="reference"></sup>&nbsp;She would write: "I cannot say I became a suffragist. I always was one, from the time I was old enough to think at all about the principles of Representative Government."<sup id="cite_ref-2" class="reference"></sup>&nbsp;Fawcett also tried to improve women's chances of higher education, serving as a governor of&nbsp;<a title="Bedford College, London" href="https://en.wikipedia.org/wiki/Bedford_College,_London">Bedford College, London</a>&nbsp;(now&nbsp;<a class="mw-redirect" title="Royal Holloway" href="https://en.wikipedia.org/wiki/Royal_Holloway">Royal Holloway</a>), and a co-founder of&nbsp;<a title="Newnham College, Cambridge" href="https://en.wikipedia.org/wiki/Newnham_College,_Cambridge">Newnham College, Cambridge</a>, in 1875.<sup id="cite_ref-odnb_3-0" class="reference"></sup>&nbsp;In 2018, 100 years after the passing of the&nbsp;<a title="Representation of the People Act 1918" href="https://en.wikipedia.org/wiki/Representation_of_the_People_Act_1918">Representation of the People Act</a>, Fawcett became the first woman to be commemorated with&nbsp;<a title="Statue of Millicent Fawcett" href="https://en.wikipedia.org/wiki/Statue_of_Millicent_Fawcett">a statue in Parliament Square</a>.</p>
+
+</br>
+
+<h2> Books </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(5).pdf" style="text-decoration:none;">Industry and Trade: A Study of industrial technique and businnes organization; and of their influences on the
+condition of various classes and nations</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(6).rar" style="text-decoration:none;">Money Credit and Commerce</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(7).pdf" style="text-decoration:none;">Official Papers of Alfred Marshall: A Supplement</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(8).pdf" style="text-decoration:none;">The Correspondence of Alfred Marshall, Economist: Volume 1 </a></li>   
+ 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(9).pdf" style="text-decoration:none;">The Correspondence of Alfred Marshall, Economist: Volume 2</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(10).pdf" style="text-decoration:none;">The Early Economic Writings of Alfred Marshall, 1867-1890: Volume l </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(11).pdf" style="text-decoration:none;">The Early Economic Writings of Alfred Marshall, 1867-1890: Volume 2 </a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(12).pdf" style="text-decoration:none;"> The Economics of Industry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(13).pdf" style="text-decoration:none;">Principles of Economics </a></li>
+ 
+ 
+ 
+ </ul>
+
+</br>
+
+
+
+
