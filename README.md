@@ -152,5 +152,29 @@ condition of various classes and nations</a></li>
  </ul>
 
 </br>
+<h3><a href="https://en.wikipedia.org/wiki/W._Arthur_Lewis">W. Arthur Lewis&nbsp;</a></h3>
+<h3>1915&ndash;1991</h3>
+<p><strong>Sir William Arthur Lewis</strong>&nbsp;(23 January 1915 &ndash; 15 June 1991) was an&nbsp;<a title="Economist" href="https://en.wikipedia.org/wiki/Economist">economist</a>&nbsp;and the James Madison Professor of Political Economy at&nbsp;<a title="Princeton University" href="https://en.wikipedia.org/wiki/Princeton_University">Princeton University</a>.<sup id="cite_ref-2" class="reference"></sup>&nbsp;Lewis was well known for his contributions in the field of&nbsp;<a title="Economic development" href="https://en.wikipedia.org/wiki/Economic_development">economic development</a>. In 1979 he was awarded the&nbsp;<a title="Nobel Memorial Prize in Economic Sciences" href="https://en.wikipedia.org/wiki/Nobel_Memorial_Prize_in_Economic_Sciences">Nobel Memorial Prize in Economic Sciences</a>. He had dual&nbsp;<a class="mw-redirect" title="Saint Lucian people" href="https://en.wikipedia.org/wiki/Saint_Lucian_people">Saint Lucian</a>&nbsp;and&nbsp;<a title="United Kingdom" href="https://en.wikipedia.org/wiki/United_Kingdom">British</a>&nbsp;citizenships.</p>
+</br>
+<h2> Books </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(29).pdf" style="text-decoration:none;">A Theory of the Consumption Function</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(30).pdf" style="text-decoration:none;">Liberty and Learning: Milton Friedman's Voucher Idea at Fifty</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(31).pdf" style="text-decoration:none;">Free to Choose: A Personal Statement </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(32).pdf" style="text-decoration:none;">Price Theory</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(33).pdf" style="text-decoration:none;">The Great Contraction 1929–1933</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(34).pdf" style="text-decoration:none;">Capitalism and Freedom</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(35).pdf" style="text-decoration:none;">Essays in Positive Economics</a></li>
 
 
+ 
+ 
+ </ul>
