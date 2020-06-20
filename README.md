@@ -185,17 +185,15 @@ condition of various classes and nations</a></li>
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(36).pdf" style="text-decoration:none;">The Slowing Down of the Engine of Growth [Nobel Lecture]</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(41).pdf" style="text-decoration:none;">The Essays of Warren Buffett: Lessons for Corporate America</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(37).pdf" style="text-decoration:none;">Development Planning: The Essentials of Economic Policy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(42).pdf" style="text-decoration:none;">Letters to Shareholders</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(38).pdf" style="text-decoration:none;">The Principles of Economic Planning </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(39).pdf" style="text-decoration:none;">Economic Development with Unlimited Supplies of Labour</a></li>   
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(40).pdf" style="text-decoration:none;">The Theory of Economic Growth</a></li>
+
 
  </ul>
 
-
+</br>
 
 
 
