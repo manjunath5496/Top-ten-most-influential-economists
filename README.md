@@ -27,9 +27,25 @@
 
 </br>
 
+<h3><a href="https://en.wikipedia.org/wiki/Alfred_Marshall">Alfred Marshall&nbsp;</a></h3>
+<h3>1842&ndash;1924</h3>
+<p><strong>Alfred Marshall</strong>&nbsp;<span class="noexcerpt nowraplinks"><a title="Fellow of the British Academy" href="https://en.wikipedia.org/wiki/Fellow_of_the_British_Academy">FBA</a></span>&nbsp;(26 July 1842 &ndash; 13 July 1924) was one of the most influential&nbsp;<a title="Economist" href="https://en.wikipedia.org/wiki/Economist">economists</a>&nbsp;of his time. His book,&nbsp;<em><a title="Principles of Economics (Marshall)" href="https://en.wikipedia.org/wiki/Principles_of_Economics_(Marshall)">Principles of Economics</a></em>&nbsp;(1890), was the dominant economic textbook in England for many years. It brings the ideas of&nbsp;<a title="Supply and demand" href="https://en.wikipedia.org/wiki/Supply_and_demand">supply and demand</a>,&nbsp;<a title="Marginal utility" href="https://en.wikipedia.org/wiki/Marginal_utility">marginal utility</a>, and&nbsp;<a class="mw-redirect" title="Costs of production" href="https://en.wikipedia.org/wiki/Costs_of_production">costs of production</a>&nbsp;into a coherent whole. He is known as one of the founders of&nbsp;<a title="Neoclassical economics" href="https://en.wikipedia.org/wiki/Neoclassical_economics">neoclassical economics</a>.<sup id="cite_ref-1" class="reference"></sup>&nbsp;Although Marshall took&nbsp;<a title="Economics" href="https://en.wikipedia.org/wiki/Economics">economics</a>&nbsp;to a more mathematically rigorous level, he did not want mathematics to overshadow economics and thus make economics irrelevant to the layman.</p>
+</br>
 
+<h2> Books </h2>
 
+<ul>
 
+                             
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(1).pdf" style="text-decoration:none;">The Complete Works of Adam Smith</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(2).pdf" style="text-decoration:none;">Lectures on Jurisprudence</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(3).pdf" style="text-decoration:none;">The Theory of Moral Sentiments</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-ten-most-influential-economists/blob/master/ecb(4).pdf" style="text-decoration:none;">An Inquiry into the Nature and Causes of the Wealth of Nations </a></li>    
+ 
+ </ul>
+
+</br>
 
